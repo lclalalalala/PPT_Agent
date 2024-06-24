@@ -1,0 +1,28 @@
+# data my files
+data/
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Cache directories
+.caches/
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+# User-specific files
+.DS_Store
